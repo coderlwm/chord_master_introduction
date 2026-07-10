@@ -36890,7 +36890,7 @@ A.Jx.prototype={
 J(a){var s=null,r=A.ag(a),q=A.eH(28),p=A.d([r.ax.b.b8(0.28),B.d1],t.t_),o=A.nW(B.i.b8(0.1))
 return new A.dL(B.kF,A.ie(new A.fg(B.fS,A.fh(s,A.aiK(new A.a7q(r)),B.x,s,s,new A.cv(s,s,o,q,s,new A.iB(B.wW,B.jt,B.bY,p,s,s),B.ai),s,s,s,B.Al,s,s,1/0),s),s,s),s)}}
 A.a7q.prototype={
-$2(a,b){var s,r,q="Start writing with Chord Master",p="Available on iOS and Android. Premium unlocks folders and extended Inspiration \u2014 one-time purchase.",o=this.a,n=o.ok
+$2(a,b){var s,r,q="Start writing with Chord Master",p="Available on iOS and Android. ",o=this.a,n=o.ok
 if(b.b>=700){s=A.cE(q,n.e)
 n=n.y
 r=t.D
